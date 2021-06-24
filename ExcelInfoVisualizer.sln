@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelInfoVisualizer", "ExcelInfoVisualizer\ExcelInfoVisualizer.csproj", "{D7612339-8E35-416C-A475-6F2EAD5C4F4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D151B938-1080-42B4-A571-BA6EC2899F56}"
+	ProjectSection(SolutionItems) = preProject
+		ExcelInfoVisualizer\Users.xlsx = ExcelInfoVisualizer\Users.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
