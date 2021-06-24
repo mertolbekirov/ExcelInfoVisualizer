@@ -95,6 +95,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Users.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
